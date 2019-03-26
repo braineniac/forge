@@ -1,0 +1,21 @@
+repositories:
+  meta-openembedded:
+    type: git
+    url: git://git.openembedded.org/meta-openembedded
+    version: thud
+  meta-qt5:
+    type: git
+    url: https://github.com/meta-qt5/meta-qt5
+    version: thud
+  meta-raspberrypi:
+    type: git
+    url: git://git.yoctoproject.org/meta-raspberrypi
+    version: thud
+  meta-rpi:
+    type: git
+    url: git://github.com/jumpnow/meta-rpi
+    version: thud
+  poky:
+    type: git
+    url: git://git.yoctoproject.org/poky
+    version: thud
